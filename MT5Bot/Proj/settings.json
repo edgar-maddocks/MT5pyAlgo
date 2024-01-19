@@ -1,0 +1,13 @@
+{
+  "mt5": {
+    "username" : "1520015737",
+    "password" : "pg3JpJkUF1*",
+    "server" : "FTMO-Demo2",
+    "mt5_pathway": "C:/Program Files/FTMO MetaTrader 5/terminal64.exe",
+    "symbols" : ["GBPJPY", "GBPAUD", "GBPCAD", "GBPNZD", "USDJPY", "USDCAD"],
+    "timeframe" : "H1",
+    "check_for_trade_timeframe" : "H1",
+    "account_currency" : "GBP",
+    "perc_risk" : 0.025
+  }
+}

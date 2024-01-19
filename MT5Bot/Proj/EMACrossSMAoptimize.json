@@ -1,0 +1,48 @@
+{"params":
+  {
+    "GBPJPY" : {
+    "EMA": 19,
+    "SMA": 29
+    },
+    "GBPUSD":
+    {
+      "EMA": 18,
+      "SMA": 27
+    },
+    "GBPCHF":
+    {
+      "EMA": 13,
+      "SMA": 19
+    },
+    "GBPAUD":
+    {
+      "EMA": 19,
+      "SMA": 29
+    },
+    "GBPCAD":
+    {
+      "EMA": 12,
+      "SMA": 17
+    },
+    "GBPNZD":
+    {
+      "EMA": 19,
+      "SMA": 29
+    },
+    "USDJPY":
+    {
+      "EMA": 19,
+      "SMA": 29
+    },
+    "USDCHF":
+    {
+      "EMA": 19,
+      "SMA": 29
+    },
+    "USDCAD":
+    {
+      "EMA": 19,
+      "SMA": 29
+    }
+  }
+}
